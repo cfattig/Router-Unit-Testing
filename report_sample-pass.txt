@@ -1,0 +1,7 @@
+Lot ID: 3338
+Standard Deviation of IV: 	0.1564	Pass
+Standard Deviation of A1: 	1.0078	Pass
+Standard Deviation of A2: 	1.0064	Pass
+Percentage of failed MT24: 	0.0000	Pass
+Percentage of failed MT5: 	0.0000	Pass
+Action: Accept

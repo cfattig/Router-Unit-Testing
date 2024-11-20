@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "prog3", "prog3.vcxproj", "{433AC3BB-DDE0-4786-9F5E-52ACD4BF4869}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{433AC3BB-DDE0-4786-9F5E-52ACD4BF4869}.Debug|Win32.ActiveCfg = Debug|Win32
+		{433AC3BB-DDE0-4786-9F5E-52ACD4BF4869}.Debug|Win32.Build.0 = Debug|Win32
+		{433AC3BB-DDE0-4786-9F5E-52ACD4BF4869}.Release|Win32.ActiveCfg = Release|Win32
+		{433AC3BB-DDE0-4786-9F5E-52ACD4BF4869}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(Performance) = preSolution
+		HasPerformanceSessions = true
+	EndGlobalSection
+EndGlobal
